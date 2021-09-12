@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\bin\Debug\netcoreapp3.1\ClaseArrayList.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\bin\Debug\netcoreapp3.1\ClaseArrayList.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\bin\Debug\netcoreapp3.1\ClaseArrayList.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\bin\Debug\netcoreapp3.1\ClaseArrayList.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\bin\Debug\netcoreapp3.1\ClaseArrayList.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\bin\Debug\netcoreapp3.1\ClaseArrayList.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\obj\Debug\netcoreapp3.1\ClaseArrayList.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\obj\Debug\netcoreapp3.1\ClaseArrayList.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\obj\Debug\netcoreapp3.1\ClaseArrayList.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\obj\Debug\netcoreapp3.1\ClaseArrayList.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ClaseArrayList\obj\Debug\netcoreapp3.1\ClaseArrayList.pdb
