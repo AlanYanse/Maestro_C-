@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\bin\Debug\netcoreapp3.1\Ejercicio03POO.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\bin\Debug\netcoreapp3.1\Ejercicio03POO.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\bin\Debug\netcoreapp3.1\Ejercicio03POO.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\bin\Debug\netcoreapp3.1\Ejercicio03POO.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\bin\Debug\netcoreapp3.1\Ejercicio03POO.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\bin\Debug\netcoreapp3.1\Ejercicio03POO.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\obj\Debug\netcoreapp3.1\Ejercicio03POO.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\obj\Debug\netcoreapp3.1\Ejercicio03POO.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\obj\Debug\netcoreapp3.1\Ejercicio03POO.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\obj\Debug\netcoreapp3.1\Ejercicio03POO.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Ejercicio03POO\obj\Debug\netcoreapp3.1\Ejercicio03POO.pdb

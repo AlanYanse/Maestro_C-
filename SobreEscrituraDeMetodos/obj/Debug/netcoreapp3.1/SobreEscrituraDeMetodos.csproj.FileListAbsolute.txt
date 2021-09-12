@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\bin\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\bin\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\bin\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\bin\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\bin\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\bin\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\obj\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\obj\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\obj\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\obj\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\SobreEscrituraDeMetodos\obj\Debug\netcoreapp3.1\SobreEscrituraDeMetodos.pdb

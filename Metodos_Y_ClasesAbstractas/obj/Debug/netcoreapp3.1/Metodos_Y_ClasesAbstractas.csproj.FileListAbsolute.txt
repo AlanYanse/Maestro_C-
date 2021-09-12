@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\bin\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\bin\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\bin\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\bin\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\bin\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\bin\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\obj\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\obj\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\obj\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\obj\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Metodos_Y_ClasesAbstractas\obj\Debug\netcoreapp3.1\Metodos_Y_ClasesAbstractas.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Metodos_Y_ClasesAbstractas/1.0.0": {
+        "runtime": {
+          "Metodos_Y_ClasesAbstractas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodos_Y_ClasesAbstractas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

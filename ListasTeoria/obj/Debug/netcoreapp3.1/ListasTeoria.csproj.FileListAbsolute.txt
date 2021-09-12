@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\bin\Debug\netcoreapp3.1\ListasTeoria.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\bin\Debug\netcoreapp3.1\ListasTeoria.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\bin\Debug\netcoreapp3.1\ListasTeoria.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\bin\Debug\netcoreapp3.1\ListasTeoria.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\bin\Debug\netcoreapp3.1\ListasTeoria.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\bin\Debug\netcoreapp3.1\ListasTeoria.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\obj\Debug\netcoreapp3.1\ListasTeoria.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\obj\Debug\netcoreapp3.1\ListasTeoria.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\obj\Debug\netcoreapp3.1\ListasTeoria.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\obj\Debug\netcoreapp3.1\ListasTeoria.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\ListasTeoria\obj\Debug\netcoreapp3.1\ListasTeoria.pdb

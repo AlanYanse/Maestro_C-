@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\bin\Debug\netcoreapp3.1\HerenciaPOO.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\bin\Debug\netcoreapp3.1\HerenciaPOO.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\bin\Debug\netcoreapp3.1\HerenciaPOO.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\bin\Debug\netcoreapp3.1\HerenciaPOO.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\bin\Debug\netcoreapp3.1\HerenciaPOO.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\bin\Debug\netcoreapp3.1\HerenciaPOO.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\obj\Debug\netcoreapp3.1\HerenciaPOO.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\obj\Debug\netcoreapp3.1\HerenciaPOO.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\obj\Debug\netcoreapp3.1\HerenciaPOO.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\obj\Debug\netcoreapp3.1\HerenciaPOO.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\HerenciaPOO\obj\Debug\netcoreapp3.1\HerenciaPOO.pdb
