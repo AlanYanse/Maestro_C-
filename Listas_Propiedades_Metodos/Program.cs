@@ -24,7 +24,7 @@ namespace Listas_Propiedades_Metodos
 
             lista_clientes.Add(new Cliente("Wuacho", "Yanse", "Villaverde", 32, "Av Siempre viva 123")); // Permite agregar elementos a una lista
 
-            lista_clientes.Clear(); // Permite eliminar elementos de una lista
+           // lista_clientes.Clear(); // Permite eliminar elementos de una lista
 
             List<Cliente> lista_clientes2 = new List<Cliente>
             {
@@ -40,9 +40,38 @@ namespace Listas_Propiedades_Metodos
             }
 
             Console.WriteLine(lista_clientes2.Count);
-                
             
+            //---- Find() Method -------
+
+            Cliente oClienteResultado = lista_clientes.Find(p=>p.getNombre().Equals("Chuck"));
+
+            Console.WriteLine("El apellido del " + oClienteResultado.getNombre() + " es " +  oClienteResultado.getApaterno());
        
+
+            //---- FindAll() Method -------
+
+
+            List <Cliente> lista_clientes_resultado = lista_clientes.FindAll(p=>p.getEdad().Equals(32));
+            //---- ForEach method like JavaScript ----
+
+            lista_clientes_resultado.ForEach(p=>Console.WriteLine("los que tienen 32 años son " + p.getNombre() + " " +  p.getEdad()));
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }

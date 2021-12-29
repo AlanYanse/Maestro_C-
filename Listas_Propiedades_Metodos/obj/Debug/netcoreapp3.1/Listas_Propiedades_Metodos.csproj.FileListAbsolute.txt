@@ -9,3 +9,17 @@ C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Lis
 C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.AssemblyInfo.cs
 C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.dll
 C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\bin\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\bin\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\bin\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\bin\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\bin\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\bin\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Listas_Propiedades_Metodos\obj\Debug\netcoreapp3.1\Listas_Propiedades_Metodos.genruntimeconfig.cache

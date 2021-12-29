@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj": {}
+    "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Cursos\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj": {
+    "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Cursos\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj",
+        "projectUniqueName": "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Cursos\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj",
         "projectName": "Listas_Propiedades_Metodos",
-        "projectPath": "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj",
+        "projectPath": "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Cursos\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\Listas_Propiedades_Metodos.csproj",
         "packagesPath": "C:\\Users\\alan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\obj\\",
+        "outputPath": "C:\\Users\\alan_\\OneDrive\\Escritorio\\Magalan\\Diseño\\Cursos\\Curso C# Udemy\\Maestro_C#\\Listas_Propiedades_Metodos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\alan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

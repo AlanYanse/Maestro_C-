@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Manejo_De_Archivos/1.0.0": {
+        "runtime": {
+          "Manejo_De_Archivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manejo_De_Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

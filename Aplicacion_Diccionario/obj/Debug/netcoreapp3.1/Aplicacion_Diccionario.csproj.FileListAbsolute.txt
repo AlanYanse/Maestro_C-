@@ -1,0 +1,11 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\bin\Debug\netcoreapp3.1\Aplicacion_Diccionario.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\bin\Debug\netcoreapp3.1\Aplicacion_Diccionario.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\bin\Debug\netcoreapp3.1\Aplicacion_Diccionario.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\bin\Debug\netcoreapp3.1\Aplicacion_Diccionario.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\bin\Debug\netcoreapp3.1\Aplicacion_Diccionario.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\bin\Debug\netcoreapp3.1\Aplicacion_Diccionario.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\obj\Debug\netcoreapp3.1\Aplicacion_Diccionario.csprojAssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\obj\Debug\netcoreapp3.1\Aplicacion_Diccionario.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\obj\Debug\netcoreapp3.1\Aplicacion_Diccionario.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\obj\Debug\netcoreapp3.1\Aplicacion_Diccionario.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Curso C# Udemy\Maestro_C#\Aplicacion_Diccionario\obj\Debug\netcoreapp3.1\Aplicacion_Diccionario.pdb

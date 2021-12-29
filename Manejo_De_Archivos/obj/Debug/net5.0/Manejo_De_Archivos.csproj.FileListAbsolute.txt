@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\Manejo_De_Archivos.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\Manejo_De_Archivos.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\Manejo_De_Archivos.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\Manejo_De_Archivos.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\Manejo_De_Archivos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\ref\Manejo_De_Archivos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\bin\Debug\net5.0\Manejo_De_Archivos.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\ref\Manejo_De_Archivos.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Manejo_De_Archivos\obj\Debug\net5.0\Manejo_De_Archivos.genruntimeconfig.cache
