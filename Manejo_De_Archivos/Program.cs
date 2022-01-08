@@ -188,7 +188,6 @@ namespace Manejo_De_Archivos
             }
 
 
-        */
             // ------------------------ ReadAllBytes and WriteAllBytes ---------------------------
 
             string pathImage = @"C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\ClaseArchivo\imagenes\mounstritos.jpg";
@@ -209,6 +208,67 @@ namespace Manejo_De_Archivos
 
                 Console.WriteLine(ex.Message);
             }
+
+
+
+        string path20 = @"C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\ClaseArchivo\ruta-mover\examen.txt";
+
+        string content = "today i am learning to match";
+
+        File.WriteAllText(path20, content);
+
+            string pathOrigen = @"C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\ClaseArchivo\ruta-mover\examen.txt";
+            
+            string pathDestino = @"C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\ClaseArchivo\ruta-mover\contenido.txt";
+
+            string contenidoArchivo = File.ReadAllText(pathOrigen);
+
+            try{
+                File.WriteAllText(pathDestino, contenidoArchivo);
+                Console.WriteLine("content has been copied with succesfully");
+            }catch(Exception ex){
+                
+                 Console.WriteLine(ex.Message);
+            }
+
+
+            
+            //----------- File.ReadAllLines() -----------------
+
+            string nuevoPath =  @"C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\ClaseArchivo\ruta-mover\contenido.txt";
+
+            string[] lines = File.ReadAllLines(nuevoPath);
+
+            Array.ForEach(lines, p=>Console.WriteLine(p));
+
+
+        */
+            //------------ Class FileInfo ------------------------
+
+
+            string otroPath =  @"C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\ClaseArchivo\ruta-mover\contenido.txt";
+
+            FileInfo f = new FileInfo(otroPath);
+
+            Console.WriteLine(f.Exists);
+            Console.WriteLine(f.Length);
+            Console.WriteLine(f.Directory);
+            Console.WriteLine(f.Name);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

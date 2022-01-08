@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\first-form.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\first-form.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\first-form.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\first-form.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\first-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\ref\first-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\bin\Debug\net5.0-windows\first-form.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\ref\first-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\first-form\obj\Debug\net5.0-windows\first-form.genruntimeconfig.cache
