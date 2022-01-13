@@ -77,6 +77,12 @@ namespace first_form
             labelShowValueNumeric.Text = "Valor : ";
             labelShowValueNumeric.Location = new Point(300, 230);
 
+            Label labelDateTime = new Label();
+            labelDateTime.AutoSize = true;
+            labelDateTime.Font = new Font("Arial", 10); // Allow change size and the font
+            labelDateTime.Text = "Valor : ";
+            labelDateTime.Location = new Point(300, 380);
+
           //---------TextBox----------------
             TextBox miTextBox = new TextBox();
             miTextBox.Location = new Point(50,50);
@@ -94,6 +100,13 @@ namespace first_form
             NumericUpDown numericUpDown1 = new NumericUpDown();
             numericUpDown1.Location = new Point(50, 230);
             numericUpDown1.Width = 200;
+
+
+          //---------DateTimePicker----------------
+            DateTimePicker myDateTimePicker1 = new DateTimePicker();
+            myDateTimePicker1.Location = new Point(50, 380);
+            myDateTimePicker1.Width = 200;
+            myDateTimePicker1.Format = DateTimePickerFormat.Short;
 
           //---------Button----------------
             Button btn1 = new Button();
@@ -145,11 +158,22 @@ namespace first_form
             };
 
 
-          //---------DateTimePicker----------------
-            DateTimePicker myDateTimePicker1 = new DateTimePicker();
-            myDateTimePicker1.Location = new Point(50, 380);
-            myDateTimePicker1.Width = 200;
-            myDateTimePicker1.Format = DateTimePickerFormat.Short;
+            Button btn4 = new Button();
+            btn4.Location = new Point(50, 415);
+            btn4.Text = "Get Date";
+            btn4.Size = new Size(100, 25);
+            
+          // Suscribe Event 
+
+            btn4.Click+=(s,e)=>{
+            
+              var valorDateTime = myDateTimePicker1.Value;
+
+              labelDateTime.Text = "valor : " + valorDateTime;
+
+            };
+
+
 
           //---------Add controls to Form----------------
 
@@ -159,6 +183,7 @@ namespace first_form
              this.Controls.Add(btn1);
              this.Controls.Add(btn2);
              this.Controls.Add(btn3);
+             this.Controls.Add(btn4);
              this.Controls.Add(miCombito);
              this.Controls.Add(numericUpDown1);
              this.Controls.Add(myDateTimePicker1);
@@ -166,6 +191,7 @@ namespace first_form
              this.Controls.Add(labelShowValue);
              this.Controls.Add(labelShowValueNumeric);
              this.Controls.Add(labelShowCombo);
+             this.Controls.Add(labelDateTime);
             
 
 
