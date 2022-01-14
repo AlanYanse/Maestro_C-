@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\sumar-numeros-form.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\sumar-numeros-form.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\sumar-numeros-form.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\sumar-numeros-form.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\sumar-numeros-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\ref\sumar-numeros-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\bin\Debug\net5.0-windows\sumar-numeros-form.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\ref\sumar-numeros-form.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\sumar-numeros-form\obj\Debug\net5.0-windows\sumar-numeros-form.genruntimeconfig.cache
