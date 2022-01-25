@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\Calcular-Edad.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\Calcular-Edad.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\Calcular-Edad.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\Calcular-Edad.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\Calcular-Edad.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\ref\Calcular-Edad.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\bin\Debug\net5.0-windows\Calcular-Edad.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\ref\Calcular-Edad.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Calcular-Edad\obj\Debug\net5.0-windows\Calcular-Edad.genruntimeconfig.cache
