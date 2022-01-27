@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\List-Box.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\List-Box.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\List-Box.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\List-Box.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\List-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\ref\List-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\bin\Debug\net5.0-windows\List-Box.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\ref\List-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\List-Box\obj\Debug\net5.0-windows\List-Box.genruntimeconfig.cache
