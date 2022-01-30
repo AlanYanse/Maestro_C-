@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\Clase-DataGridView.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\Clase-DataGridView.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\Clase-DataGridView.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\Clase-DataGridView.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\Clase-DataGridView.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\ref\Clase-DataGridView.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\bin\Debug\net5.0-windows\Clase-DataGridView.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\ref\Clase-DataGridView.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataGridView\obj\Debug\net5.0-windows\Clase-DataGridView.genruntimeconfig.cache
