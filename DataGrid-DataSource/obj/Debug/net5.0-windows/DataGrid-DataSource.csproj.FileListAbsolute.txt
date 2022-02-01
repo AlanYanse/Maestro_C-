@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\DataGrid-DataSource.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\DataGrid-DataSource.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\DataGrid-DataSource.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\DataGrid-DataSource.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\DataGrid-DataSource.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\ref\DataGrid-DataSource.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\bin\Debug\net5.0-windows\DataGrid-DataSource.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\ref\DataGrid-DataSource.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\DataGrid-DataSource\obj\Debug\net5.0-windows\DataGrid-DataSource.genruntimeconfig.cache
