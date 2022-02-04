@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\Clase-DataTable.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\Clase-DataTable.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\Clase-DataTable.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\Clase-DataTable.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\Clase-DataTable.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\ref\Clase-DataTable.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\bin\Debug\net5.0-windows\Clase-DataTable.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\ref\Clase-DataTable.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Clase-DataTable\obj\Debug\net5.0-windows\Clase-DataTable.genruntimeconfig.cache
