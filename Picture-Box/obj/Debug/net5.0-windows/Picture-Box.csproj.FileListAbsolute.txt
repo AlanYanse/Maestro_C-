@@ -1,0 +1,16 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.AssemblyInfoInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.AssemblyInfo.cs
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\Picture-Box.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\Picture-Box.deps.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\Picture-Box.runtimeconfig.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\Picture-Box.runtimeconfig.dev.json
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\Picture-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\ref\Picture-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\bin\Debug\net5.0-windows\Picture-Box.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\ref\Picture-Box.dll
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Picture-Box\obj\Debug\net5.0-windows\Picture-Box.genruntimeconfig.cache
