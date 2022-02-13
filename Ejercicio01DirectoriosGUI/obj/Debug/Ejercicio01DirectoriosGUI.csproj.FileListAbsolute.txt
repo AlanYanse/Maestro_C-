@@ -1,0 +1,10 @@
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\bin\Debug\Ejercicio01DirectoriosGUI.exe.config
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\bin\Debug\Ejercicio01DirectoriosGUI.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\bin\Debug\Ejercicio01DirectoriosGUI.pdb
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.csproj.AssemblyReference.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.Form1.resources
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.Properties.Resources.resources
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.csproj.GenerateResource.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.csproj.CoreCompileInputs.cache
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.exe
+C:\Users\alan_\OneDrive\Escritorio\Magalan\Diseño\Cursos\Curso C# Udemy\Maestro_C#\Ejercicio01DirectoriosGUI\obj\Debug\Ejercicio01DirectoriosGUI.pdb
